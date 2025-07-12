@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+speakupscholarsorg.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1752290384|Ux9RauVB5SbV
+speakupscholarsorg.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
+speakupscholarsorg.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=sea1_g
+

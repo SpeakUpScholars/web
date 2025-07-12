@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 11 Jul 2025 20:19:42 at https://speakupscholarsorg.wixsite.com/speakup-scholars +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://speakupscholarsorg.wixsite.com/speakup-scholars -O1 "C:\My Web Sites\SpeakUp Scholars" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:20:01	Error: 	"Not Found" (404) at link https://speakupscholarsorg.wixsite.com/c (from https://speakupscholarsorg.wixsite.com/speakup-scholars)
+20:20:01	Error: 	"Not Found" (404) at link https://speakupscholarsorg.wixsite.com/t (from https://speakupscholarsorg.wixsite.com/speakup-scholars)
+20:20:01	Error: 	"Not Found" (404) at link https://speakupscholarsorg.wixsite.com/ (from https://speakupscholarsorg.wixsite.com/speakup-scholars)
+20:20:20	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/https://static.wixstatic.com/media/391879_36beafb4a3324c89b624475fa08dfd9c~mv2.jpg (from https://speakupscholarsorg.wixsite.com/speakup-scholars)
+20:20:20	Error: 	"Not Found" (404) at link https://speakupscholarsorg.wixsite.com/api/ (from https://speakupscholarsorg.wixsite.com/speakup-scholars)
+20:20:20	Error: 	"Not Found" (404) at link https://speakupscholarsorg.wixsite.com/envelope/ (from https://speakupscholarsorg.wixsite.com/speakup-scholars)
+20:20:20	Error: 	"Not Found" (404) at link https://speakupscholarsorg.wixsite.com/sitemap.xml (from https://speakupscholarsorg.wixsite.com/speakup-scholars)
+20:20:20	Error: 	"Not Found" (404) at link https://speakupscholarsorg.wixsite.com/feed.xml (from https://speakupscholarsorg.wixsite.com/speakup-scholars)
+20:20:20	Error: 	"Not Found" (404) at link https://speakupscholarsorg.wixsite.com/decodeURIComponent(e (from https://speakupscholarsorg.wixsite.com/speakup-scholars)
+20:20:20	Error: 	"Not Found" (404) at link https://speakupscholarsorg.wixsite.com/speakup-scholars/c (from https://speakupscholarsorg.wixsite.com/speakup-scholars/About-Us)
+20:20:20	Error: 	"Not Found" (404) at link https://speakupscholarsorg.wixsite.com/speakup-scholars/t (from https://speakupscholarsorg.wixsite.com/speakup-scholars/About-Us)
+20:20:20	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/https://static.wixstatic.com/media/391879_d15b0c5058ef45b8a8463c5ec9407400~mv2.jpg (from https://speakupscholarsorg.wixsite.com/speakup-scholars/About-Us)
+20:20:20	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/https://static.wixstatic.com/media/391879_fe94eb661e904fa4ae2dcb3371bb8eb5~mv2.jpg (from https://speakupscholarsorg.wixsite.com/speakup-scholars/About-Us)
+20:20:20	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/https://static.wixstatic.com/media/391879_5f2046f614b84cecbbb7302c55ecd33e~mv2.jpg (from https://speakupscholarsorg.wixsite.com/speakup-scholars/About-Us)
+20:20:20	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/https://static.wixstatic.com/media/391879_3295ca176c9442909e267be4653e50f7~mv2.jpg (from https://speakupscholarsorg.wixsite.com/speakup-scholars/About-Us)
+20:20:20	Error: 	"Bad Request" (400) at link https://speakupscholarsorg.wixsite.com/speakup-scholars/robots.txt (from https://speakupscholarsorg.wixsite.com/speakup-scholars/About-Us)
+20:20:20	Error: 	"Not Found" (404) at link https://speakupscholarsorg.wixsite.com/speakup-scholars/feed.xml (from https://speakupscholarsorg.wixsite.com/speakup-scholars/About-Us)
+20:20:20	Error: 	"Bad Request" (400) at link https://speakupscholarsorg.wixsite.com/speakup-scholars/decodeURIComponent(e (from https://speakupscholarsorg.wixsite.com/speakup-scholars/About-Us)
+20:20:20	Error: 	"Not Found" (404) at link https://speakupscholarsorg.wixsite.com/speakup-scholars/media/emptystate.85a4add5.svg (from https://speakupscholarsorg.wixsite.com/speakup-scholars/Gallery)
+20:20:20	Error: 	"Not Found" (404) at link https://speakupscholarsorg.wixsite.com/speakup-scholars/event-details-registration/sitemap.xml (from https://speakupscholarsorg.wixsite.com/speakup-scholars/event-details-registration/communication-skills-masterclass-workshop)
+20:20:20	Error: 	"Not Found" (404) at link https://speakupscholarsorg.wixsite.com/speakup-scholars/event-details-registration/feed.xml (from https://speakupscholarsorg.wixsite.com/speakup-scholars/event-details-registration/communication-skills-masterclass-workshop)
+
+HTTrack Website Copier/3.49-2 mirror complete in 38 seconds : 80 links scanned, 58 files written (14580254 bytes overall) [4255888 bytes received at 111997 bytes/sec], 13450324 bytes transferred using HTTP compression in 54 files, ratio 22%, 1.3 requests per connection
+(21 errors, 0 warnings, 0 messages)
